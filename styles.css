@@ -91,4 +91,31 @@ body, html {
   footer a:hover {
     text-decoration: underline;
   }
+/* Stil für die Projekt-Bubbles */
+.bubbles {
+    display: flex;
+    justify-content: space-evenly; /* Bubbles gleichmäßig verteilen */
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .bubble {
+    width: 100px;
+    height: 100px;
+    background-color: #3b82f6; /* Blauer Farbton */
+    border-radius: 50%;        /* Rundes Element (Kreis) */
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: transform 0.2s, background-color 0.2s;
+  }
+  
+  .bubble:hover {
+    background-color: #1e40af; /* Dunkleres Blau beim Hover */
+    transform: scale(1.05);    /* Leichtes Vergrößern */
+  }
   
