@@ -26,10 +26,10 @@ Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reise
 ✍️ Heute habe ich alle geforderten Lernnachweise der Lernziele 1.1 bis 1.4 vollständig bearbeitet. Dazu gehörten die Aufgaben zu den Themen Binärcodes (1702), Fehlererkennung (1704), Zahlensysteme (1705) und Zeichenkodierung (1706). Ich habe dabei mein Verständnis für die Umwandlung und Interpretation von Daten in verschiedenen Codesystemen vertieft. Besonders herausfordernd fand ich die Fehlererkennung, doch mithilfe von Zusatzmaterial konnte ich Unklarheiten klären. Durch das sorgfältige Bearbeiten der Aufgaben fühle ich mich nun sicherer im Umgang mit digitalen Kodierungen und Datenverarbeitungssystemen, was mir auch im späteren Verlauf meiner Ausbildung helfen wird.
 
 7.03
-- [ ] Grundgerüst optimieren.
-- [ ] LinkedIn-Profil erweitern und aktualisieren.
-- [ ] GitHub-Profil professionalisieren (readme.md hinzugefügen und übersichtlicher gestalten).
-- [ ] Dringendste AP (responsive Design) auf der Startseite umsetzen.
+- [ ] Verbesserungvorschläge von Mitschülern analysieren und anwenden
+- [ ] Grundgerüst der Ferienplaner-App erstellt (Projektstruktur eingerichtet, grundlegende Funktionen definiert).
+- [ ] Layout für Benutzeroberfläche skizziert (Dashboard, Navigation, Übersicht der Urlaubsziele).
+- [ ] Datenbankstruktur definiert und erste Planung für Speicherung der Reiseinformationen abgeschlossen.
 ✍️
 
 
