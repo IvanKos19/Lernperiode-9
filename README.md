@@ -19,19 +19,18 @@ Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reise
 ✍️ Heute habe ich das Grundgerüst meiner Startseite erfolgreich erstellt, das Layout entworfen und wichtige Inhalte eingebaut. Ich habe zudem meine Online-Präsenz überprüft und Referenzen professionell zusammengestellt.
 
 28.2
-[x] Grundgerüst optimiert (Layout responsive gemacht).
-[x] LinkedIn-Profil erstellt und aktualisiert.
-[x] GitHub-Profil professionalisiert (readme.md hinzugefügt und übersichtlich gestaltet).
-[x] Dringendste AP (responsive Design) auf der Startseite umgesetzt.
-✍️ Heute habe ich das Grundgerüst meiner Website responsiv optimiert und wichtige Profile wie LinkedIn und GitHub überarbeitet, um meine Online-Präsenz weiter zu professionalisieren.
+[x] Nachweis LZ 1.1: 1702_Binaercodes
+[x] Nachweis LZ 1.2: 1704_Fehlererkennung
+[x] Nachweis LZ 1.3: 1705_Zahlensysteme
+[x] Nachweis LZ 1.4: 1706_Zeichenkodierung
+✍️ Heute habe ich alle geforderten Lernnachweise der Lernziele 1.1 bis 1.4 vollständig bearbeitet. Dazu gehörten die Aufgaben zu den Themen Binärcodes (1702), Fehlererkennung (1704), Zahlensysteme (1705) und Zeichenkodierung (1706). Ich habe dabei mein Verständnis für die Umwandlung und Interpretation von Daten in verschiedenen Codesystemen vertieft. Besonders herausfordernd fand ich die Fehlererkennung, doch mithilfe von Zusatzmaterial konnte ich Unklarheiten klären. Durch das sorgfältige Bearbeiten der Aufgaben fühle ich mich nun sicherer im Umgang mit digitalen Kodierungen und Datenverarbeitungssystemen, was mir auch im späteren Verlauf meiner Ausbildung helfen wird.
 
-
-7.3 (Planung für morgen)
-[ ] Startseite finalisieren (letzte Anpassungen am CSS vornehmen).
-[ ] CV-Seite erstellen und in die Website integrieren.
-[ ] GitHub-Repository aktualisieren (alle Arbeiten hochladen, Commit-Meldungen klar verfassen).
-[ ] Feedback einholen und umsetzen (Peers und Lehrer).
-✍️ Heute werde ich die letzten Anpassungen an meiner Startseite durchführen, die CV-Seite professionell gestalten und integrieren, mein GitHub-Profil auf aktuellen Stand bringen und abschließend Feedback zur Verbesserung einholen und integrieren, um die Website abzuschließen.
+7.03
+[ ] Grundgerüst optimieren.
+[ ] LinkedIn-Profil erweitern und aktualisieren.
+[ ] GitHub-Profil professionalisieren (readme.md hinzugefügen und übersichtlicher gestalten).
+[ ] Dringendste AP (responsive Design) auf der Startseite umsetzen.
+✍️
 
 
 14.3
