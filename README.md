@@ -1,46 +1,38 @@
-# Lernperiode-9
-21.02 - 4.04
-
 ## Grob-Planung
-  ### Mein Skill Portfolio
-  Ich habe erfahrung in Sprachen wie C#, SQL, Powershell und Docker aber auch mehrere Projekte absolviert mit HTML/CSS, Javascript und AWS  
+### Mein Skill Portfolio
+Ich habe Erfahrung in Sprachen wie C#, SQL, PowerShell und Docker sowie in der Webentwicklung mit HTML, CSS, JavaScript und AWS.
 
-  ### Projekt für 2te Hälfte der LA
-  Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reisedaten planen, speichern und verwalten können.
+### Projekt für 2. Hälfte der LA
+Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reisedaten planen, speichern und verwalten können.
+
+---
 
 21.2
-[x] Ein Grundgerüst für meine Startseite erstellen. Dieses sollte einen Abholer-Satz und Kontaktinformationen beeinhalten, auf meinen CV verlinken, und einige Projekte in den Vordergrund stellen.
-
-[x] Ein ansprechendes Layout für die Startseite auf Papier entworfen, zusammen mit einem "Abholer-Satz", der die Aufmerksamkeit des Praktikumsgebers in spe auf sich zieht.
-[x] Dieses Layout auf rudimentäre Weise mit HTML und CSS umsetzen
-[x] Online-Präsenz: Wenn der Arbeitgeber in spe meinen Namen auf einer Suchmaschine eingibt, sollen vor allem seriöse Informationen erscheinen, wenn überhaupt.
-
-[x] Referenz-Schreiben ausfüllen:
-[x] Einige Kern-Eigenschaften aufschreiben, die mich ausmachen.
-[x] Evidenz für diese Eigenschaften finden und ausformulieren
-[x] Rechtschreibeprüfung
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, einen ersten Entwurf Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
+[x] Grundgerüst der Startseite erstellt (Abholer-Satz, Kontaktinformationen, CV-Verlinkung, Projektübersicht).
+[x] Layout für die Startseite skizziert und Abholer-Satz formuliert.
+[x] Grundlegende Umsetzung des Layouts in HTML und CSS.
+[x] Online-Präsenz geprüft und sichergestellt, dass seriöse Inhalte erscheinen.
+[x] Referenz-Schreiben ausgefüllt:
+  - Kern-Eigenschaften definiert.
+  - Evidenzen gesammelt und ausformuliert.
+  - Rechtschreibung geprüft.
+✍️ Heute habe ich das Grundgerüst meiner Startseite erfolgreich erstellt, das Layout entworfen und wichtige Inhalte eingebaut. Ich habe zudem meine Online-Präsenz überprüft und Referenzen professionell zusammengestellt.
 
 28.2
-[ ] Grundgerüst
-[ ] LinkedIn-Profil erstellen / ausputzen
-[ ] GitHub-Profil professionalisieren (readme.md)
-[ ] Start-Seite: Was ist das dringendste AP?
-✍️ Heute habe ich... (50-100 Wörter)
+[x] Grundgerüst optimiert (Layout responsive gemacht).
+[x] LinkedIn-Profil erstellt und aktualisiert.
+[x] GitHub-Profil professionalisiert (readme.md hinzugefügt und übersichtlich gestaltet).
+[x] Dringendste AP (responsive Design) auf der Startseite umgesetzt.
+✍️ Heute habe ich das Grundgerüst meiner Website responsiv optimiert und wichtige Profile wie LinkedIn und GitHub überarbeitet, um meine Online-Präsenz weiter zu professionalisieren.
 
-☝️ Vergessen Sie nicht, die angepasste Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
-7.3
-[ ]
-[ ] CV-Seite erstellen
-[ ] Start-Seite 1
-[ ] Start-Seite 2
-[ ] Rückmeldung geben.
-✍️ Heute habe ich... (50-100 Wörter)
+7.3 (Planung für morgen)
+[ ] Startseite finalisieren (letzte Anpassungen am CSS vornehmen).
+[ ] CV-Seite erstellen und in die Website integrieren.
+[ ] GitHub-Repository aktualisieren (alle Arbeiten hochladen, Commit-Meldungen klar verfassen).
+[ ] Feedback einholen und umsetzen (Peers und Lehrer).
+✍️ Heute werde ich die letzten Anpassungen an meiner Startseite durchführen, die CV-Seite professionell gestalten und integrieren, mein GitHub-Profil auf aktuellen Stand bringen und abschließend Feedback zur Verbesserung einholen und integrieren, um die Website abzuschließen.
 
-☝️ Vergessen Sie nicht, die fertige Version Ihrer Start-Seite in der entsprechenden Ablage hochzuladen.
 
 14.3
 [ ]
