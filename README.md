@@ -26,19 +26,30 @@ Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reise
 ✍️ Heute habe ich alle geforderten Lernnachweise der Lernziele 1.1 bis 1.4 vollständig bearbeitet. Dazu gehörten die Aufgaben zu den Themen Binärcodes (1702), Fehlererkennung (1704), Zahlensysteme (1705) und Zeichenkodierung (1706). Ich habe dabei mein Verständnis für die Umwandlung und Interpretation von Daten in verschiedenen Codesystemen vertieft. Besonders herausfordernd fand ich die Fehlererkennung, doch mithilfe von Zusatzmaterial konnte ich Unklarheiten klären. Durch das sorgfältige Bearbeiten der Aufgaben fühle ich mich nun sicherer im Umgang mit digitalen Kodierungen und Datenverarbeitungssystemen, was mir auch im späteren Verlauf meiner Ausbildung helfen wird.
 
 7.03
-- [ ] Verbesserungvorschläge von Mitschülern analysieren und anwenden
-- [ ] Grundgerüst der Ferienplaner-App erstellt (Projektstruktur eingerichtet, grundlegende Funktionen definiert).
-- [ ] Layout für Benutzeroberfläche skizziert (Dashboard, Navigation, Übersicht der Urlaubsziele).
-- [ ] Datenbankstruktur definiert und erste Planung für Speicherung der Reiseinformationen abgeschlossen.
-✍️
+- [X] Verbesserungvorschläge von Mitschülern analysieren und anwenden
+- [X] Grundgerüst der Ferienplaner-App erstellt (Projektstruktur eingerichtet, grundlegende Funktionen definiert).
+- [X] Layout für Benutzeroberfläche skizziert (Dashboard, Navigation, Übersicht der Urlaubsziele).
+- [X] Datenbankstruktur definiert und erste Planung für Speicherung der Reiseinformationen abgeschlossen.
+
 
 
 14.3
-- [ ]
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
-✍️ Heute habe ich... (50-100 Wörter)
+- [X] Projektgrundgerüst erstellen (App-Struktur aufsetzen, grundlegende Navigation und Bildschirmaufteilung definieren).
+- [X] Layout und UI entwerfen (Benutzeroberfläche für schnelle Eingabe, Tagesübersicht und Erinnerungen skizzieren und in ein übersichtliches Design umsetzen).
+- [X] Datenhaltung festlegen (Entscheidung treffen, ob lokale Speicherung oder Cloud-Synchronisation verwendet wird, sowie passende Technologie auswählen und integrieren).
+- [ ] Benachrichtigungen implementieren (Erinnerungsfunktion entwickeln, um zuverlässig auf geplante Tagesaufgaben hinzuweisen).
 
-☝️ Vergessen Sie nicht, einen ersten Code Ihres Projektes in dieser Ablage hochzuladen
+
+
+21.03
+- [X] Basis-App initialisieren: Neues Projekt anlegen und Entwicklungsumgebung vollständig konfigurieren.
+- [X] Einfaches Eingabeformular erstellen: Ein Formular zur schnellen Eingabe neuer Aufgaben oder Termine implementieren.
+- [X] Aufgabenliste anzeigen: Erste Version einer Liste entwickeln, in der eingetragene Tagespunkte übersichtlich dargestellt werden.
+- [ ] Lokale Datenspeicherung einrichten: Eine einfache Methode zur Speicherung der Aufgaben auf deinem Gerät implementieren (z.B. lokale JSON-Datei oder SQLite).
+
+
+28.03
+- [ ] Arbeitnehmer suchen die ein Praktikum anbieten
+- [ ] Bewerbung grundgerüst schreiben
+- [ ] Arbeitnehmer 1 Bewerbung machen
+- [ ] Arbeitnehmer 2 Bewerbung machen
