@@ -53,6 +53,6 @@ Heute habe ich die Tagesplaner-App gestartet und die Entwicklungsumgebung vollst
 
 28.03
 - [X] Arbeitnehmer suchen die ein Praktikum anbieten
-- [ ] Bewerbung grundgerüst schreiben
-- [ ] Arbeitnehmer 1 Bewerbung machen
+- [X] Bewerbung grundgerüst schreiben
+- [X] Arbeitnehmer 1 Bewerbung machen
 - [ ] Arbeitnehmer 2 Bewerbung machen
