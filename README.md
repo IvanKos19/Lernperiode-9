@@ -31,6 +31,7 @@ Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reise
 - [X] Layout für Benutzeroberfläche skizziert (Dashboard, Navigation, Übersicht der Urlaubsziele).
 - [X] Datenbankstruktur definiert und erste Planung für Speicherung der Reiseinformationen abgeschlossen.
 
+Heute habe ich zuerst alle Verbesserungsvorschläge meiner Mitschüler analysiert und anschließend sinnvoll in mein Projekt eingearbeitet. Danach erstellte ich das solide Grundgerüst meiner Ferienplaner-App, indem ich die gesamte Projektstruktur und grundlegende Funktionen klar definierte. Außerdem fertigte ich erste Skizzen für das Layout der Benutzeroberfläche an, einschließlich Dashboard, Navigation und der übersichtlichen Anzeige geplanter Reisen. Abschließend habe ich die Datenbankstruktur detailliert definiert sowie eine erste Planung zur Speicherung der Reiseinformationen abgeschlossen. Diese Schritte ermöglichen mir, die App in kommenden Arbeitsschritten effektiv weiterzuentwickeln. (92 Wörter)
 
 
 14.3
@@ -39,7 +40,7 @@ Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reise
 - [X] Datenhaltung festlegen (Entscheidung treffen, ob lokale Speicherung oder Cloud-Synchronisation verwendet wird, sowie passende Technologie auswählen und integrieren).
 - [ ] Benachrichtigungen implementieren (Erinnerungsfunktion entwickeln, um zuverlässig auf geplante Tagesaufgaben hinzuweisen).
 
-
+Heute habe ich mein neues Projekt, die Tagesplaner-App, begonnen und ein stabiles Projektgrundgerüst erstellt. Dabei definierte ich klar die grundlegende Navigation und Bildschirmaufteilung der App. Zudem entwarf ich ein nutzerfreundliches und übersichtliches Layout, das eine schnelle Eingabe und Tagesübersicht ermöglicht. Anschließend entschied ich mich für die passende Art der Datenhaltung und integrierte eine lokale Speicherlösung. Die geplante Erinnerungsfunktion konnte ich heute noch nicht implementieren, doch die bisherigen Ergebnisse bieten eine solide Grundlage, um diese zeitnah nachzuholen. (89 Wörter)
 
 21.03
 - [X] Basis-App initialisieren: Neues Projekt anlegen und Entwicklungsumgebung vollständig konfigurieren.
@@ -47,9 +48,11 @@ Ferienplaner-App: Eine kleine Anwendung, mit der Benutzer Urlaubsziele und Reise
 - [X] Aufgabenliste anzeigen: Erste Version einer Liste entwickeln, in der eingetragene Tagespunkte übersichtlich dargestellt werden.
 - [ ] Lokale Datenspeicherung einrichten: Eine einfache Methode zur Speicherung der Aufgaben auf deinem Gerät implementieren (z.B. lokale JSON-Datei oder SQLite).
 
+Heute habe ich die Tagesplaner-App gestartet und die Entwicklungsumgebung vollständig konfiguriert. Zudem implementierte ich ein einfaches Eingabeformular, mit dem neue Aufgaben und Termine schnell hinzugefügt werden können. Danach erstellte ich eine übersichtliche Darstellung aller geplanten Aufgaben und Termine. Die lokale Datenspeicherung konnte ich heute noch nicht umsetzen, werde diese aber im nächsten Schritt zeitnah integrieren. (62 Wörter)
+
 
 28.03
-- [ ] Arbeitnehmer suchen die ein Praktikum anbieten
+- [X] Arbeitnehmer suchen die ein Praktikum anbieten
 - [ ] Bewerbung grundgerüst schreiben
 - [ ] Arbeitnehmer 1 Bewerbung machen
 - [ ] Arbeitnehmer 2 Bewerbung machen
